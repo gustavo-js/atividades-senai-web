@@ -1,0 +1,19 @@
+p {
+	text-align: right;
+}
+
+#imagem {
+	float: right;
+	height: 300px;
+}
+
+img {
+	border: 1px solid black;
+}
+
+#texto {
+	width: 80%;
+	margin: 0 auto;
+	align-items: center;
+}
+
